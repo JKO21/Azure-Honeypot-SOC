@@ -1,6 +1,4 @@
 # Live Azure Honeypot & SOC: Cyber Attacks in Real Time
-# SIEM Project Topology
-
  ![SIEM Topology](https://imgur.com/Ue5OzUS.png)<br>
 
 ## Introduction
