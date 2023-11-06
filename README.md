@@ -106,7 +106,7 @@ Stop Time	2023-11-01 5:30 PM
 
 ## Utilizing NIST 800.61r2 Computer Incident Handling Guide
 
-For each simulated attack I practiced incident responses following NIST SP 800-61 r2.
+For each simulated attack I practiced incident responses following NIST SP 800-61 R2.
 
 ![NIST 800.61](https://i.imgur.com/6PTG7c0l.png)
 
